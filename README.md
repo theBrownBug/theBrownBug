@@ -13,6 +13,6 @@
   <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=theBrownBug&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=radical&count_private=true&show_icons=true"/>
 </p>
 
-## Leetcode Profile
+## Leetcode Profile [![Visit Profile](https://leetcode.card.workers.dev/?username=zesj)](https://leetcode.com/zesj)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0&extension=activity)
