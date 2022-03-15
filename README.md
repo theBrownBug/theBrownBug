@@ -17,3 +17,7 @@
 
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0&extension=activity)](https://leetcode.com/zesj)
+
+
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
