@@ -5,9 +5,11 @@
  
 <img src="https://gpvc.arturio.dev/theBrownBug" alt="Profile views"/>
 
-## GitHub activity
 
-[![Eeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theBrownBug&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=theBrownBug&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+</p>
+
 
 ## LeetCode ([profile](https://leetcode.com/zesj))
 [![Eeshan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zesj)](https://github.com/KnlnKS/leetcode-stats)
