@@ -14,6 +14,6 @@
 </p>
 
 ## Leetcode Profile 
-[![Visit Profile](https://leetcode.card.workers.dev/?username=zesj)](https://leetcode.com/zesj)
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0&extension=activity)
+
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0&extension=activity)](https://leetcode.com/zesj)
