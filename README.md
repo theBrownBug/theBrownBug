@@ -15,4 +15,4 @@
 
 ## Leetcode Profile
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0&extension=activity)
