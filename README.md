@@ -14,9 +14,4 @@
 </p>
 
 
-## LeetCode ([profile](https://leetcode.com/zesj))
-[![Eeshan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zesj&exclude_repo=CS2010)](https://github.com/KnlnKS/leetcode-stats)
-
-
-## ([Leetcode profile](https://leetcode.com/zesj))
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0)
