@@ -13,6 +13,6 @@
 
 
 ## LeetCode ([profile](https://leetcode.com/zesj))
-[![Eeshan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zesj)](https://github.com/KnlnKS/leetcode-stats)
+[![Eeshan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zesj?exclude_repo=cs2010)](https://github.com/KnlnKS/leetcode-stats)
 
 
