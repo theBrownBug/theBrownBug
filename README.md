@@ -19,4 +19,4 @@
 
 
 ## ([Leetcode profile](https://leetcode.com/zesj))
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0)](https://leetcode.com/zesj)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=zesj&theme=dark&cache=0)
